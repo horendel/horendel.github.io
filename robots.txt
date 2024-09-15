@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://horendel.github.io/sitemap.html.gz
+Sitemap: https://horendel.github.io/app/sitemap.html.gz
+Sitemap: https://horendel.github.io/assets/sitemap.html.gz
+Sitemap: https://horendel.github.io/css/sitemap.html.gz
+Sitemap: https://horendel.github.io/includes/sitemap.html.gz
+Sitemap: https://horendel.github.io/item/sitemap.html.gz
+Sitemap: https://horendel.github.io/src/sitemap.html.gz
